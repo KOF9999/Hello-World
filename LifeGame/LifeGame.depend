@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473778926 source:c:\users\zhang\hello-world\lifegame\life_game.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
